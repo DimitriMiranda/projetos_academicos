@@ -1,6 +1,6 @@
 # Projetos Acadêmicos
 
-# Diretório criado para salvar alguns projetos acadêmicos.
+# Diretório criado para salvar  projetos acadêmicos.
 
 # Senai
 Curso Técnico em Informática (ênfase em desenvolvimento de software). 
