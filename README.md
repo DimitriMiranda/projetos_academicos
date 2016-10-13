@@ -1,6 +1,6 @@
 # Projetos Acadêmicos
 
-## Diretório criado para salvar projetos acadêmicos.
+## Repositorio criado para salvar projetos acadêmicos.
 
 ### Faculdade Visconde de Cairu<br/>
 Curso Análise e Desenvolvimento de Sistemas<br/>
