@@ -1,2 +1,5 @@
 # projetos_academicos
-Diretório criado.  
+
+Diretório criado para salvar alguns projetos Academicos.
+
+
