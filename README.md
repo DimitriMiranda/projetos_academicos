@@ -6,8 +6,8 @@
 Curso Análise e Desenvolvimento de Sistemas<br/>
 Período:<br/> 
 inicio de 2015.2 até o final de 2018.1<br/> 
-Projeto Integrador II .(https://github.com/projetosacademicosdimitri/projeto-integrador-II) 
-Projeto Integrador III.(https://github.com/DimitriMiranda/projetos_academicos/tree/master/faculdade_visconde_de_cairu/) 
+[Projeto Integrador II .](https://github.com/projetosacademicosdimitri/projeto-integrador-II) 
+[Projeto Integrador III.](https://github.com/DimitriMiranda/projetos_academicos/tree/master/faculdade_visconde_de_cairu/) 
 
 
 ### Senai
