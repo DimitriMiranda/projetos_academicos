@@ -1,6 +1,10 @@
 # Projetos Acadêmicos
 
 ## Repositório criado para salvar projetos acadêmicos.
+- ( * Todos os projetos listados abaixo, foram os meus primeiros passos com desenvolvimento de Software.)  
+
+
+
 
 ### Faculdade Visconde de Cairu<br/>
 Curso Análise e Desenvolvimento de Sistemas<br/>
