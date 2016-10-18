@@ -1,7 +1,7 @@
 # Projetos Acadêmicos
 
 ## Repositório criado para salvar projetos acadêmicos.
-###- Todos os projetos listados abaixo, foram os meus primeiros passos com desenvolvimento de Software.
+####- Todos os projetos listados abaixo, foram os meus primeiros passos com desenvolvimento de Software.
 
 
 
